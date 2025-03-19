@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados e Finanças (Wizard - Idiomas)
+# Análise de Dados e Finanças (Wizard - Idiomas)
 
 Vamos utilizar o Python, o Pandas e o Jupyter para um projeto de análise de dados voltado para finanças.<br><br>     
 
