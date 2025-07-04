@@ -1,5 +1,7 @@
 # Análise de Dados e Finanças (Wizard - Idiomas)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **Projeto de consultoria para a empresa Wizard Idiomas, focando na análise de dados financeiros e de funcionários para otimizar operações e fornecer insights estratégicos.**
 
 ## Sumário
